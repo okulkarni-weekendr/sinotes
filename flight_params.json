@@ -1,0 +1,1280 @@
+{
+    "0FjOgIqBTx": {
+        "config_params": {
+        "iou": "0FjOgIqBTx"
+        },
+        "credentials": {
+        "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjM3OjQyLjQ4NFoiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTA2MiwiZXhwIjoxNTE2OTk5NjYyfQ.HRkBnmJGAXnZ5_VFyRe3vb7ERNw8Z1mG9--83Ssf2fA",
+        "iou": "0FjOgIqBTx"
+        },
+        "config_payload": {
+        "end_date": "2018-02-01",
+        "uid": "0FjOgIqBTx",
+        "oneview_policy": [
+            null
+        ],
+        "flight_frequency_cap": {
+            "cap": 5,
+            "frequency_unit_of_measure": "days",
+            "frequency_value": 1
+        },
+        "campaign_device_type": [
+            "SmartPhone",
+            "Tablet",
+            "Desktop/Laptop",
+            "Game Console",
+            "Connected TV",
+            "Other"
+        ],
+        "audiences": [
+            "0SDpc8Mhql",
+            "0SAg8nBMZQ",
+            "0SKfnaDJuf",
+            "0SS4V96E0w",
+            "0Sp3viPKuk",
+            "0Sl4Joc4Vf"
+        ],
+        "device_type": [],
+        "campaign_geography": [],
+        "campaign_day_parts": null,
+        "campaign_oneview_policy": [
+            "Broad Reach"
+        ],
+        "geography": [],
+        "campaign_constraints": {
+            "constraint.cap.impression.user": null,
+            "constraint.cap.spend.daily": null,
+            "constraint.goal.cpa": 0,
+            "constraint.goal.ctr": null,
+            "constraint.cap.bid": 30,
+            "constraint.goal.cpm": null,
+            "constraint.cap.spend": 250000,
+            "constraint.cap.impression.user.campaign": null,
+            "constraint.cap.impression": null
+        },
+        "iou_type": "Flight",
+        "campaign_frequency_cap": null,
+        "day_parts": null,
+        "max_video_length": "",
+        "deal_uids": [
+            "14bd9.1799a.3a6b",
+            "226fc.d12ea.33ff",
+            "271e3.f9199.0a69",
+            "IOA-AMC-DX-EVERGREEN-CTV-36-20170909-000000",
+            "2dcaf.5545f.05fa",
+            "UFR-DX-PLUTO-CTV-20-20171025-000000",
+            "IOA-Sling-DX-NBA-28-20171016-000000",
+            "IOA-DX-CTV-FilmOn-Evergreen-20170621-000000",
+            "UFR-DX-CTV-Evergreen-20170810-000000",
+            "UFR-PopcornFlix-DX-AllSeats-20-20160916-000000",
+            "IOA-DX-CTV-Snagfilms-Evergreen-20170605-000000",
+            "10325440068073774272",
+            "33e52.3bcea.e028",
+            "14bd9.715e0.e0c7",
+            "UFR-Viki-DX-AllSeats-20-20161004-000000"
+        ],
+        "deal_ids": "",
+        "metro_codes": [],
+        "flight_constraints": {
+            "constraint.cap.impression.user": {
+            "cap": 5,
+            "frequency_unit_of_measure": "days",
+            "frequency_value": 1
+            },
+            "constraint.cap.spend.daily": null,
+            "constraint.goal.cpa": null,
+            "constraint.goal.ctr": null,
+            "constraint.cap.bid": null,
+            "constraint.goal.cpm": 39,
+            "constraint.cap.spend": 6097,
+            "constraint.cap.impression.user.campaign": null,
+            "constraint.cap.impression": null
+        },
+        "campaign_geo_region": [],
+        "start_date": "2018-01-01"
+        }
+    },
+    "0Fqr0LvNnj": {
+        "output": {
+          "config_params": {
+            "iou": "0Fqr0LvNnj"
+          },
+          "credentials": {
+            "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjM5OjE2LjM4MVoiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTE1NiwiZXhwIjoxNTE2OTk5NzU2fQ.UM1ytEOu6iYMOQG_mqIID8NiiSHsHxr06vZpRGnoZb8",
+            "iou": "0Fqr0LvNnj"
+          },
+          "config_payload": {
+            "end_date": "2018-01-01",
+            "uid": "0Fqr0LvNnj",
+            "oneview_policy": [
+              null
+            ],
+            "flight_frequency_cap": {
+              "cap": 5,
+              "frequency_unit_of_measure": "days",
+              "frequency_value": 1
+            },
+            "campaign_device_type": [
+              "SmartPhone",
+              "Tablet",
+              "Desktop/Laptop",
+              "Game Console",
+              "Connected TV",
+              "Other"
+            ],
+            "audiences": [
+              "0SDpc8Mhql",
+              "0SAg8nBMZQ",
+              "0SKfnaDJuf",
+              "0SS4V96E0w",
+              "0Sp3viPKuk",
+              "0Sl4Joc4Vf"
+            ],
+            "device_type": [],
+            "campaign_geography": [],
+            "campaign_day_parts": null,
+            "campaign_oneview_policy": [
+              "Broad Reach"
+            ],
+            "geography": [],
+            "campaign_constraints": {
+              "constraint.cap.impression.user": null,
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": 0,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": 30,
+              "constraint.goal.cpm": null,
+              "constraint.cap.spend": 250000,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "iou_type": "Flight",
+            "campaign_frequency_cap": null,
+            "day_parts": null,
+            "max_video_length": "",
+            "deal_uids": [
+              "14bd9.1799a.3a6b",
+              "226fc.d12ea.33ff",
+              "271e3.f9199.0a69",
+              "IOA-AMC-DX-EVERGREEN-CTV-36-20170909-000000",
+              "2dcaf.5545f.05fa",
+              "UFR-DX-PLUTO-CTV-20-20171025-000000",
+              "IOA-Sling-DX-NBA-28-20171016-000000",
+              "IOA-DX-CTV-FilmOn-Evergreen-20170621-000000",
+              "UFR-DX-CTV-Evergreen-20170810-000000",
+              "UFR-PopcornFlix-DX-AllSeats-20-20160916-000000",
+              "IOA-DX-CTV-Snagfilms-Evergreen-20170605-000000",
+              "10325440068073774272",
+              "33e52.3bcea.e028",
+              "14bd9.715e0.e0c7",
+              "UFR-Viki-DX-AllSeats-20-20161004-000000"
+            ],
+            "deal_ids": "",
+            "metro_codes": [],
+            "flight_constraints": {
+              "constraint.cap.impression.user": {
+                "cap": 5,
+                "frequency_unit_of_measure": "days",
+                "frequency_value": 1
+              },
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": null,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": null,
+              "constraint.goal.cpm": 75,
+              "constraint.cap.spend": 10624.27,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "campaign_geo_region": [],
+            "start_date": "2017-11-23"
+          }
+        }
+      },
+      "0F1IYA7JpL": {
+        "output": {
+          "config_params": {
+            "iou": "0F1IYA7JpL"
+          },
+          "credentials": {
+            "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjQwOjIxLjU5MloiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTIyMSwiZXhwIjoxNTE2OTk5ODIxfQ.tcqGVGoStcY7NNJ4SuA65LB4C1bsQ-cBNRKPb75B220",
+            "iou": "0F1IYA7JpL"
+          },
+          "config_payload": {
+            "end_date": "2018-01-01",
+            "uid": "0F1IYA7JpL",
+            "oneview_policy": [
+              null
+            ],
+            "flight_frequency_cap": {
+              "cap": 2,
+              "frequency_unit_of_measure": "hours",
+              "frequency_value": 1
+            },
+            "campaign_device_type": [
+              "SmartPhone",
+              "Tablet",
+              "Desktop/Laptop",
+              "Game Console",
+              "Connected TV",
+              "Other"
+            ],
+            "audiences": [
+              "0SdQw7YqPl"
+            ],
+            "device_type": [],
+            "campaign_geography": [
+              {
+                "geo.country": "US"
+              }
+            ],
+            "campaign_day_parts": null,
+            "campaign_oneview_policy": [
+              "Broad Reach"
+            ],
+            "geography": [],
+            "campaign_constraints": {
+              "constraint.cap.impression.user": null,
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": 0,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": 14.27,
+              "constraint.goal.cpm": null,
+              "constraint.cap.spend": 105000,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "iou_type": "Flight",
+            "campaign_frequency_cap": null,
+            "day_parts": null,
+            "max_video_length": "",
+            "deal_uids": [
+              "UFR-AETN-DX-AllSeats-CTV-20-20160623-000000",
+              "AET-DAT-00001",
+              "2691",
+              "34345994472653387",
+              "421104934734266450",
+              "2cf3d.1772a.c953",
+              "1717d.c87c6.be7e",
+              "444237774619412197",
+              "UFR-Fubo-DX-24-CTV-Platform-20170918-000000",
+              "1bcc1.2cd38.41d9",
+              "4285",
+              "UFR-SNI-CTV-DX-ALL-20-20170822-000000",
+              "IOA-Dish-Sling-GenEnt-DX-20161102-000000",
+              "IOA-Dish-Sling-Sports-DX-20161114-000000",
+              "IOA-Dish-Sling-YoungAdult-DX-2016114-000000",
+              "IOA-Sling-DX-MonNightFootball-28-20170814-000000",
+              "IOA-Sling-DX-CollegeFootball-28-20170814-000000",
+              "IOA-Sling-DX-NBA-28-20171016-000000",
+              "IOA-Sling-DX-AMC-WalkingDead-32-20171017-000000",
+              "14bd9.29f36.1799",
+              "22d3b.16429.fe23",
+              "181e7.e1f23.1281"
+            ],
+            "deal_ids": "",
+            "metro_codes": [],
+            "flight_constraints": {
+              "constraint.cap.impression.user": {
+                "cap": 2,
+                "frequency_unit_of_measure": "hours",
+                "frequency_value": 1
+              },
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": null,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": null,
+              "constraint.goal.cpm": 45.55,
+              "constraint.cap.spend": 21527.65,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "campaign_geo_region": [],
+            "start_date": "2017-12-01"
+          }
+        }
+      },
+      "0F77oDWKHt": {
+        "config_params": {
+          "iou": "0F77oDWKHt"
+        },
+        "credentials": {
+          "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjQyOjAyLjA0M1oiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTMyMiwiZXhwIjoxNTE2OTk5OTIyfQ.V0MxmZymeNu5dGelmLBuRxQHTZM2MWuDiSXS7z4Yhec",
+          "iou": "0F77oDWKHt"
+        },
+        "config_payload": {
+          "end_date": "2018-01-01",
+          "uid": "0F77oDWKHt",
+          "oneview_policy": [
+            null
+          ],
+          "flight_frequency_cap": {
+            "cap": 2,
+            "frequency_unit_of_measure": "hours",
+            "frequency_value": 1
+          },
+          "campaign_device_type": [
+            "Connected TV",
+            "SmartPhone",
+            "Tablet",
+            "Game Console",
+            "Desktop/Laptop",
+            "Other"
+          ],
+          "audiences": [],
+          "device_type": [
+            "Connected TV",
+            "Desktop/Laptop",
+            "Game Console",
+            "Other",
+            "SmartPhone",
+            "Tablet"
+          ],
+          "campaign_geography": [
+            {
+              "geo.country": "US"
+            }
+          ],
+          "campaign_day_parts": null,
+          "campaign_oneview_policy": [
+            "Broad Reach"
+          ],
+          "geography": [
+            {
+              "geo.country": "US"
+            }
+          ],
+          "campaign_constraints": {
+            "constraint.cap.impression.user": null,
+            "constraint.cap.spend.daily": null,
+            "constraint.goal.cpa": 0,
+            "constraint.goal.ctr": null,
+            "constraint.cap.bid": 33.97,
+            "constraint.goal.cpm": null,
+            "constraint.cap.spend": 22899,
+            "constraint.cap.impression.user.campaign": null,
+            "constraint.cap.impression": null
+          },
+          "iou_type": "Flight",
+          "campaign_frequency_cap": null,
+          "day_parts": null,
+          "max_video_length": "",
+          "deal_uids": [
+            "IOA-Sling-DX-MonNightFootball-28-20170814-000000"
+          ],
+          "deal_ids": "",
+          "metro_codes": [],
+          "flight_constraints": {
+            "constraint.cap.impression.user": {
+              "cap": 2,
+              "frequency_unit_of_measure": "hours",
+              "frequency_value": 1
+            },
+            "constraint.cap.spend.daily": null,
+            "constraint.goal.cpa": null,
+            "constraint.goal.ctr": null,
+            "constraint.cap.bid": null,
+            "constraint.goal.cpm": 43.59,
+            "constraint.cap.spend": 500.88,
+            "constraint.cap.impression.user.campaign": null,
+            "constraint.cap.impression": null
+          },
+          "campaign_geo_region": [],
+          "start_date": "2017-11-01"
+        }
+      },
+      "0FdM9BPyQY": {
+        "output": {
+          "config_params": {
+            "iou": "0FdM9BPyQY"
+          },
+          "credentials": {
+            "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjQzOjA3LjE0M1oiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTM4NywiZXhwIjoxNTE2OTk5OTg3fQ.5r5VOu5PgYaudwQU4B1B9MHdqmp-PSva7kXRpvk40Z4",
+            "iou": "0FdM9BPyQY"
+          },
+          "config_payload": {
+            "end_date": "2018-01-01",
+            "uid": "0FdM9BPyQY",
+            "oneview_policy": [
+              null
+            ],
+            "flight_frequency_cap": {
+              "cap": 2,
+              "frequency_unit_of_measure": "hours",
+              "frequency_value": 1
+            },
+            "campaign_device_type": [
+              "Connected TV",
+              "SmartPhone",
+              "Tablet",
+              "Game Console",
+              "Desktop/Laptop",
+              "Other"
+            ],
+            "audiences": [
+              "0SrHRTJLtJ",
+              "0S2XTDmH0W"
+            ],
+            "device_type": [
+              "Connected TV",
+              "Desktop/Laptop",
+              "Game Console",
+              "Other",
+              "SmartPhone",
+              "Tablet"
+            ],
+            "campaign_geography": [
+              {
+                "geo.country": "US"
+              }
+            ],
+            "campaign_day_parts": null,
+            "campaign_oneview_policy": [
+              "Broad Reach"
+            ],
+            "geography": [
+              {
+                "geo.country": "US"
+              }
+            ],
+            "campaign_constraints": {
+              "constraint.cap.impression.user": null,
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": 0,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": 33.97,
+              "constraint.goal.cpm": null,
+              "constraint.cap.spend": 22899,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "iou_type": "Flight",
+            "campaign_frequency_cap": null,
+            "day_parts": null,
+            "max_video_length": "",
+            "deal_uids": [
+              "2691",
+              "AET-DAT-00001",
+              "UFR-AETN-DX-AllSeats-CTV-20-20160623-000000",
+              "14bd9.94952.0f16",
+              "2cf3d.1772a.c953",
+              "1717d.c87c6.be7e",
+              "IOA-DX-CTV-FilmOn-Evergreen-20170621-000000",
+              "UFR-Fubo-DX-24-CTV-Platform-20170918-000000",
+              "181e7.e1f23.1281",
+              "UFR-DX-CTV-Evergreen-20170810-000000",
+              "226fc.eab5b.46cb",
+              "UFR-PopcornFlix-DX-AllSeats-20-20160916-000000",
+              "4285",
+              "UFR-SNI-CTV-DX-ALL-20-20170822-000000",
+              "IOA-Sling-DX-NBA-28-20171016-000000",
+              "IOA-Dish-Sling-GenEnt-DX-20161102-000000",
+              "IOA-Dish-Sling-Sports-DX-20161114-000000",
+              "IOA-DX-CTV-Snagfilms-Evergreen-20170605-000000",
+              "UFR-TV-DX-CTV-LDA-20170601-000000",
+              "UFR-Viki-DX-AllSeats-20-20161004-000000",
+              "22d3b.d4cbe.1ea2",
+              "271e3.f9199.0a69"
+            ],
+            "deal_ids": "",
+            "metro_codes": [],
+            "flight_constraints": {
+              "constraint.cap.impression.user": {
+                "cap": 2,
+                "frequency_unit_of_measure": "hours",
+                "frequency_value": 1
+              },
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": null,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": null,
+              "constraint.goal.cpm": 26.78,
+              "constraint.cap.spend": 4642.14,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "campaign_geo_region": [],
+            "start_date": "2017-11-01"
+          }
+        }
+      },
+      "0FJBhaMReG": {
+        "config_params": {
+          "iou": "0FJBhaMReG"
+        },
+        "credentials": {
+          "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjQ0OjAzLjkyMFoiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTQ0NCwiZXhwIjoxNTE3MDAwMDQ0fQ.o4MafdB-j8fHU7seBFDlioK3VoIht2l1F2YuxK1k4TE",
+          "iou": "0FJBhaMReG"
+        },
+        "config_payload": {
+          "end_date": "2018-01-01",
+          "uid": "0FJBhaMReG",
+          "oneview_policy": [
+            null
+          ],
+          "flight_frequency_cap": {
+            "cap": 2,
+            "frequency_unit_of_measure": "hours",
+            "frequency_value": 1
+          },
+          "campaign_device_type": [
+            "SmartPhone",
+            "Tablet",
+            "Desktop/Laptop",
+            "Game Console",
+            "Connected TV",
+            "Other"
+          ],
+          "audiences": [
+            "0SyimA3Iey",
+            "0SwqMM4JmD",
+            "0Sb1yJPcjB",
+            "0So4M61BQL",
+            "0SHvQYfnQ9",
+            "0Slm8cE1dN",
+            "0SIE5gdEqj",
+            "0SERdqR9Nq",
+            "0SU7gSKRnk",
+            "0SJ36JJofy",
+            "0SEIMpTmXG",
+            "0SOeQuevpX",
+            "0SCOgEgQD5",
+            "0SnhqTb631",
+            "0SrdmwDyjj",
+            "0SfKi0XOYM",
+            "0SSrGrkOuI"
+          ],
+          "device_type": [
+            "Connected TV",
+            "Desktop/Laptop",
+            "Game Console",
+            "Other",
+            "SmartPhone",
+            "Tablet"
+          ],
+          "campaign_geography": [
+            {
+              "geo.country": "US"
+            }
+          ],
+          "campaign_day_parts": null,
+          "campaign_oneview_policy": [
+            "Broad Reach"
+          ],
+          "geography": [],
+          "campaign_constraints": {
+            "constraint.cap.impression.user": null,
+            "constraint.cap.spend.daily": null,
+            "constraint.goal.cpa": 0,
+            "constraint.goal.ctr": null,
+            "constraint.cap.bid": 35,
+            "constraint.goal.cpm": null,
+            "constraint.cap.spend": 343683,
+            "constraint.cap.impression.user.campaign": null,
+            "constraint.cap.impression": null
+          },
+          "iou_type": "Flight",
+          "campaign_frequency_cap": null,
+          "day_parts": null,
+          "max_video_length": "",
+          "deal_uids": [
+            "AET-DAT-00001",
+            "UFR-AETN-DX-AllSeats-CTV-20-20160623-000000",
+            "2691",
+            "34345994472653387",
+            "421104934734266450",
+            "2cf3d.1772a.c953",
+            "1717d.c87c6.be7e",
+            "444237774619412197",
+            "UFR-Fubo-DX-24-CTV-Platform-20170918-000000",
+            "181e7.e1f23.1281",
+            "1bcc1.2cd38.41d9",
+            "4285",
+            "UFR-SNI-CTV-DX-ALL-20-20170822-000000",
+            "IOA-Sling-DX-CollegeFootball-28-20170814-000000",
+            "IOA-Sling-DX-MonNightFootball-28-20170814-000000",
+            "IOA-Sling-DX-NBA-28-20171016-000000",
+            "IOA-Dish-Sling-GenEnt-DX-20161102-000000",
+            "IOA-Dish-Sling-Sports-DX-20161114-000000",
+            "IOA-Sling-DX-AMC-WalkingDead-32-20171017-000000",
+            "IOA-Dish-Sling-YoungAdult-DX-2016114-000000",
+            "14bd9.29f36.1799",
+            "22d3b.16429.fe23"
+          ],
+          "deal_ids": "",
+          "metro_codes": [
+            "751",
+            "617",
+            "613",
+            "508",
+            "819"
+          ],
+          "flight_constraints": {
+            "constraint.cap.impression.user": {
+              "cap": 2,
+              "frequency_unit_of_measure": "hours",
+              "frequency_value": 1
+            },
+            "constraint.cap.spend.daily": null,
+            "constraint.goal.cpa": null,
+            "constraint.goal.ctr": null,
+            "constraint.cap.bid": null,
+            "constraint.goal.cpm": 35,
+            "constraint.cap.spend": 1772.69,
+            "constraint.cap.impression.user.campaign": null,
+            "constraint.cap.impression": null
+          },
+          "campaign_geo_region": [],
+          "start_date": "2017-11-01"
+        }
+      },
+      "0FrtSY4g0p": {
+        "output": {
+          "config_params": {
+            "iou": "0FrtSY4g0p"
+          },
+          "credentials": {
+            "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjQ1OjEwLjY0NloiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTUxMCwiZXhwIjoxNTE3MDAwMTEwfQ.QP2BwqzpMvzRAEdYbOH9_BsmxWwZ7D5Q3-fgKMzH8Sg",
+            "iou": "0FrtSY4g0p"
+          },
+          "config_payload": {
+            "end_date": "2018-01-01",
+            "uid": "0FrtSY4g0p",
+            "oneview_policy": [
+              null
+            ],
+            "flight_frequency_cap": {
+              "cap": 2,
+              "frequency_unit_of_measure": "hours",
+              "frequency_value": 1
+            },
+            "campaign_device_type": [
+              "SmartPhone",
+              "Tablet",
+              "Desktop/Laptop",
+              "Game Console",
+              "Connected TV",
+              "Other"
+            ],
+            "audiences": [
+              "0SOeQuevpX",
+              "0SCOgEgQD5",
+              "0SnhqTb631",
+              "0SrdmwDyjj",
+              "0SfKi0XOYM",
+              "0SSrGrkOuI",
+              "0SyimA3Iey",
+              "0SwqMM4JmD",
+              "0Sb1yJPcjB",
+              "0So4M61BQL",
+              "0SHvQYfnQ9",
+              "0Slm8cE1dN",
+              "0SIE5gdEqj",
+              "0SERdqR9Nq",
+              "0SU7gSKRnk",
+              "0SJ36JJofy",
+              "0SEIMpTmXG"
+            ],
+            "device_type": [
+              "Connected TV",
+              "Desktop/Laptop",
+              "Game Console",
+              "Other",
+              "SmartPhone",
+              "Tablet"
+            ],
+            "campaign_geography": [
+              {
+                "geo.country": "US"
+              }
+            ],
+            "campaign_day_parts": null,
+            "campaign_oneview_policy": [
+              "Broad Reach"
+            ],
+            "geography": [],
+            "campaign_constraints": {
+              "constraint.cap.impression.user": null,
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": 0,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": 35,
+              "constraint.goal.cpm": null,
+              "constraint.cap.spend": 343683,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "iou_type": "Flight",
+            "campaign_frequency_cap": null,
+            "day_parts": null,
+            "max_video_length": "",
+            "deal_uids": [
+              "14bd9.29f36.1799",
+              "22d3b.16429.fe23",
+              "AET-DAT-00001",
+              "UFR-AETN-DX-AllSeats-CTV-20-20160623-000000",
+              "2691",
+              "34345994472653387",
+              "421104934734266450",
+              "2cf3d.1772a.c953",
+              "1717d.c87c6.be7e",
+              "444237774619412197",
+              "UFR-Fubo-DX-24-CTV-Platform-20170918-000000",
+              "181e7.e1f23.1281",
+              "1bcc1.2cd38.41d9",
+              "4285",
+              "UFR-SNI-CTV-DX-ALL-20-20170822-000000",
+              "IOA-Sling-DX-CollegeFootball-28-20170814-000000",
+              "IOA-Sling-DX-MonNightFootball-28-20170814-000000",
+              "IOA-Sling-DX-NBA-28-20171016-000000",
+              "IOA-Dish-Sling-GenEnt-DX-20161102-000000",
+              "IOA-Dish-Sling-Sports-DX-20161114-000000",
+              "IOA-Sling-DX-AMC-WalkingDead-32-20171017-000000",
+              "IOA-Dish-Sling-YoungAdult-DX-2016114-000000"
+            ],
+            "deal_ids": "",
+            "metro_codes": [
+              "662",
+              "525",
+              "532",
+              "790",
+              "644",
+              "583",
+              "634",
+              "743",
+              "524",
+              "520",
+              "635",
+              "800",
+              "512",
+              "537",
+              "716",
+              "692",
+              "821",
+              "756",
+              "746",
+              "502",
+              "630",
+              "559",
+              "757",
+              "506",
+              "736",
+              "514",
+              "523",
+              "754",
+              "767",
+              "637",
+              "648",
+              "564",
+              "519",
+              "517",
+              "584",
+              "575",
+              "759",
+              "602",
+              "868",
+              "515",
+              "598",
+              "510",
+              "752",
+              "604",
+              "546",
+              "522",
+              "535",
+              "673",
+              "600",
+              "623",
+              "682",
+              "542",
+              "679",
+              "505",
+              "606",
+              "676",
+              "565",
+              "765",
+              "516",
+              "801",
+              "802",
+              "649",
+              "745",
+              "724",
+              "513",
+              "570",
+              "866",
+              "571",
+              "670",
+              "509",
+              "592",
+              "798",
+              "773",
+              "563",
+              "755",
+              "658",
+              "518",
+              "545",
+              "567",
+              "647",
+              "636",
+              "566",
+              "569",
+              "533",
+              "710",
+              "766",
+              "744",
+              "618",
+              "691",
+              "758",
+              "527",
+              "718",
+              "639",
+              "561",
+              "574",
+              "734",
+              "603",
+              "747",
+              "616",
+              "557",
+              "702",
+              "582",
+              "642",
+              "643",
+              "551",
+              "749",
+              "839",
+              "541",
+              "558",
+              "722",
+              "693",
+              "803",
+              "529",
+              "651",
+              "503",
+              "669",
+              "737",
+              "553",
+              "813",
+              "640",
+              "711",
+              "528",
+              "687",
+              "762",
+              "686",
+              "628",
+              "828",
+              "698",
+              "659",
+              "622",
+              "501",
+              "544",
+              "740",
+              "633",
+              "650",
+              "652",
+              "534",
+              "631",
+              "632",
+              "804",
+              "656",
+              "597",
+              "675",
+              "504",
+              "753",
+              "500",
+              "820",
+              "552",
+              "521",
+              "717",
+              "560",
+              "764",
+              "811",
+              "556",
+              "573",
+              "611",
+              "538",
+              "610",
+              "862",
+              "576",
+              "770",
+              "661",
+              "641",
+              "825",
+              "807",
+              "855",
+              "507",
+              "657",
+              "612",
+              "624",
+              "725",
+              "588",
+              "881",
+              "543",
+              "619",
+              "638",
+              "609",
+              "555",
+              "530",
+              "539",
+              "581",
+              "547",
+              "605",
+              "540",
+              "531",
+              "789",
+              "671",
+              "760",
+              "709",
+              "526",
+              "626",
+              "625",
+              "511",
+              "549",
+              "705",
+              "548",
+              "554",
+              "627",
+              "678",
+              "577",
+              "550",
+              "810",
+              "536",
+              "771",
+              "596"
+            ],
+            "flight_constraints": {
+              "constraint.cap.impression.user": {
+                "cap": 2,
+                "frequency_unit_of_measure": "hours",
+                "frequency_value": 1
+              },
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": null,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": null,
+              "constraint.goal.cpm": 28.88,
+              "constraint.cap.spend": 5883.15,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "campaign_geo_region": [],
+            "start_date": "2017-11-01"
+          }
+        }
+      },
+      "0Fpd7U2UwW": {
+        "output": {
+          "config_params": {
+            "iou": "0Fpd7U2UwW"
+          },
+          "credentials": {
+            "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImR4X2FkbWluQGRhdGF4dS5jb20iLCJhcHBfbWV0YWRhdGEiOnt9LCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY2xpZW50SUQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsInVwZGF0ZWRfYXQiOiIyMDE4LTAxLTI2VDIwOjQ1OjU5LjcxNloiLCJ1c2VyX2lkIjoiYXV0aDB8NTcyMWRlYmMzYTFhYWZiZTE1OWRlMDAyIiwiaWRlbnRpdGllcyI6W3sidXNlcl9pZCI6IjU3MjFkZWJjM2ExYWFmYmUxNTlkZTAwMiIsInByb3ZpZGVyIjoiYXV0aDAiLCJjb25uZWN0aW9uIjoiVXNlcm5hbWUtUGFzc3dvcmQtQXV0aGVudGljYXRpb24iLCJpc1NvY2lhbCI6ZmFsc2V9XSwiY3JlYXRlZF9hdCI6IjIwMTYtMDQtMjhUMDk6NTg6MjAuMTU0WiIsImlzcyI6Imh0dHBzOi8vZHhzdGFnaW5nLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NzIxZGViYzNhMWFhZmJlMTU5ZGUwMDIiLCJhdWQiOiJzTmd5R0dUTzd6TVlNYlJtY28zOHpacWZ0em9VOFV5ViIsImlhdCI6MTUxNjk5OTU1OSwiZXhwIjoxNTE3MDAwMTU5fQ.DDHg0sOqJXBcYpNQnsskg6ARIRQT4Yz33fNiDK6EEcA",
+            "iou": "0Fpd7U2UwW"
+          },
+          "config_payload": {
+            "end_date": "2018-01-01",
+            "uid": "0Fpd7U2UwW",
+            "oneview_policy": [
+              null
+            ],
+            "flight_frequency_cap": {
+              "cap": 2,
+              "frequency_unit_of_measure": "hours",
+              "frequency_value": 1
+            },
+            "campaign_device_type": [
+              "SmartPhone",
+              "Tablet",
+              "Desktop/Laptop",
+              "Game Console",
+              "Connected TV",
+              "Other"
+            ],
+            "audiences": [
+              "0SVZ0JrKdJ",
+              "0Sb5ykhy8J"
+            ],
+            "device_type": [
+              "Connected TV",
+              "Desktop/Laptop",
+              "Game Console",
+              "Other",
+              "SmartPhone",
+              "Tablet"
+            ],
+            "campaign_geography": [
+              {
+                "geo.country": "US"
+              }
+            ],
+            "campaign_day_parts": null,
+            "campaign_oneview_policy": [
+              "Broad Reach"
+            ],
+            "geography": [],
+            "campaign_constraints": {
+              "constraint.cap.impression.user": null,
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": 0,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": 35,
+              "constraint.goal.cpm": null,
+              "constraint.cap.spend": 343683,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "iou_type": "Flight",
+            "campaign_frequency_cap": null,
+            "day_parts": null,
+            "max_video_length": "",
+            "deal_uids": [
+              "UFR-AETN-DX-AllSeats-CTV-20-20160623-000000",
+              "AET-DAT-00001",
+              "2691",
+              "34345994472653387",
+              "421104934734266450",
+              "2cf3d.1772a.c953",
+              "1717d.c87c6.be7e",
+              "444237774619412197",
+              "181e7.e1f23.1281",
+              "1bcc1.2cd38.41d9",
+              "UFR-Fubo-DX-24-CTV-Platform-20170918-000000",
+              "4285",
+              "UFR-SNI-CTV-DX-ALL-20-20170822-000000",
+              "IOA-Dish-Sling-GenEnt-DX-20161102-000000",
+              "IOA-Dish-Sling-Sports-DX-20161114-000000",
+              "IOA-Dish-Sling-YoungAdult-DX-2016114-000000",
+              "IOA-Sling-DX-MonNightFootball-28-20170814-000000",
+              "IOA-Sling-DX-CollegeFootball-28-20170814-000000",
+              "IOA-Sling-DX-NBA-28-20171016-000000",
+              "IOA-Sling-DX-AMC-WalkingDead-32-20171017-000000",
+              "14bd9.29f36.1799",
+              "22d3b.16429.fe23"
+            ],
+            "deal_ids": "",
+            "metro_codes": [
+              "662",
+              "525",
+              "532",
+              "790",
+              "644",
+              "583",
+              "634",
+              "743",
+              "524",
+              "520",
+              "635",
+              "800",
+              "512",
+              "537",
+              "716",
+              "692",
+              "821",
+              "756",
+              "746",
+              "502",
+              "630",
+              "559",
+              "757",
+              "506",
+              "736",
+              "514",
+              "523",
+              "754",
+              "767",
+              "637",
+              "648",
+              "564",
+              "519",
+              "517",
+              "584",
+              "575",
+              "759",
+              "602",
+              "868",
+              "515",
+              "598",
+              "510",
+              "752",
+              "604",
+              "546",
+              "522",
+              "535",
+              "673",
+              "600",
+              "623",
+              "682",
+              "542",
+              "679",
+              "505",
+              "606",
+              "676",
+              "565",
+              "765",
+              "516",
+              "801",
+              "802",
+              "649",
+              "745",
+              "724",
+              "513",
+              "570",
+              "866",
+              "571",
+              "670",
+              "509",
+              "592",
+              "798",
+              "773",
+              "563",
+              "755",
+              "658",
+              "518",
+              "545",
+              "567",
+              "647",
+              "636",
+              "566",
+              "569",
+              "533",
+              "710",
+              "766",
+              "744",
+              "618",
+              "691",
+              "758",
+              "527",
+              "718",
+              "639",
+              "561",
+              "574",
+              "734",
+              "603",
+              "747",
+              "616",
+              "557",
+              "702",
+              "582",
+              "642",
+              "643",
+              "551",
+              "749",
+              "839",
+              "541",
+              "558",
+              "722",
+              "693",
+              "803",
+              "529",
+              "651",
+              "503",
+              "669",
+              "737",
+              "553",
+              "813",
+              "640",
+              "711",
+              "528",
+              "687",
+              "762",
+              "686",
+              "628",
+              "828",
+              "698",
+              "659",
+              "622",
+              "501",
+              "544",
+              "740",
+              "633",
+              "650",
+              "652",
+              "534",
+              "631",
+              "632",
+              "804",
+              "656",
+              "597",
+              "675",
+              "504",
+              "753",
+              "500",
+              "820",
+              "552",
+              "521",
+              "717",
+              "560",
+              "764",
+              "811",
+              "556",
+              "573",
+              "611",
+              "538",
+              "610",
+              "862",
+              "576",
+              "770",
+              "661",
+              "641",
+              "825",
+              "807",
+              "855",
+              "507",
+              "657",
+              "612",
+              "624",
+              "725",
+              "588",
+              "881",
+              "543",
+              "619",
+              "638",
+              "609",
+              "555",
+              "530",
+              "539",
+              "581",
+              "547",
+              "605",
+              "540",
+              "531",
+              "789",
+              "671",
+              "760",
+              "709",
+              "526",
+              "626",
+              "625",
+              "511",
+              "549",
+              "705",
+              "548",
+              "554",
+              "627",
+              "678",
+              "577",
+              "550",
+              "810",
+              "536",
+              "771",
+              "596"
+            ],
+            "flight_constraints": {
+              "constraint.cap.impression.user": {
+                "cap": 2,
+                "frequency_unit_of_measure": "hours",
+                "frequency_value": 1
+              },
+              "constraint.cap.spend.daily": null,
+              "constraint.goal.cpa": null,
+              "constraint.goal.ctr": null,
+              "constraint.cap.bid": null,
+              "constraint.goal.cpm": 29.75,
+              "constraint.cap.spend": 18014,
+              "constraint.cap.impression.user.campaign": null,
+              "constraint.cap.impression": null
+            },
+            "campaign_geo_region": [],
+            "start_date": "2017-11-01"
+          }
+        }
+    }
+}
