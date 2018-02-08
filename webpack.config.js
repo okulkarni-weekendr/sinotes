@@ -1,6 +1,7 @@
 var path = require('path');
 var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
+var ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 //NODE_ENV for production
 
@@ -10,6 +11,11 @@ var config = {
         path: path.resolve(__dirname, 'dist'),
         filename: 'index_bundle.js',
         publicPath: '/'
+    },
+    resolve: {
+        alias: {
+            '../../theme.config$': path.join(__dirname, 'my-semantic-theme/theme.config')
+        }
     },
     module: {
         rules: [
@@ -21,13 +27,15 @@ var config = {
                 }
             },
             {
-                test: /\.(s*)css$/,
-                use: ['style-loader', 'css-loader', 'sass-loader']
+                use: ExtractTextPlugin.extract({
+                    use: ['css-loader', 'less-loader']
+                }),
+                test: /\.less$/
             },
-            // {
-            //     test: /\.css$/,
-            //     use: [ 'style-loader', 'css-loader']
-            // },
+            {
+                test: /\.css$/,
+                use: [ 'style-loader', 'css-loader']
+            },
             {
                 test: /\.png$/,
                loader: "url-loader?limit=100000"
@@ -59,7 +67,11 @@ var config = {
     }),
     new webpack.ProvidePlugin({
         "React": "react",
-      }),],
+      }),
+    new ExtractTextPlugin({
+        filename: '[name].[contenthash].css',
+    })
+    ],
     devServer: {
         historyApiFallback: true
     }

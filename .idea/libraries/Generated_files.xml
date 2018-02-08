@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/IndentedTree.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/flare.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/editor/ButtonsForEditing.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/editor/Editor.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/editor/utilFunctions.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/IndentedTree.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/flare.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/editor/ButtonsForEditing.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/editor/Editor.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/editor/utilFunctions.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

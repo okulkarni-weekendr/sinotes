@@ -5,7 +5,7 @@ import data from './flare';
 // Component that draws a single color swatch
 const Swatch = ({ color, width, x, y }) => (
     <rect width={width} height="20" x={x} y={y} style={{fill: color}} />
-);
+)
 
 // Draws an entire color scale
 class IndentedTree extends React.Component {

@@ -13,10 +13,6 @@ ul {
   padding: 0;
 }
 
-li {
-  list-style-type: none;
-}
-
 .avatar {
   width: 150px;
   border-radius: 50%;
@@ -63,12 +59,6 @@ li {
 {
   width: 10px;
   background-color: #F5F5F5;
-}
-
-#style-4::-webkit-scrollbar-thumb
-{
-  background-color: #000000;
-  border: 2px solid #555555;
 }
 
 .popular-rank {
