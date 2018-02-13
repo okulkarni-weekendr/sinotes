@@ -41,6 +41,11 @@ export default class MenuExampleInvertedSecondary extends Component {
                         Battle 2
                     </NavLink>
                 </li>
+                <li>
+                    <NavLink activeClassName='active' to='/notes'>
+                        Notes
+                    </NavLink>
+                </li>
             </ul>
         )
     }

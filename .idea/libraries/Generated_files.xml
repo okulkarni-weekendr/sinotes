@@ -2,21 +2,37 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/app/components/App.js" />
         <item url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/IndentedTree.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/Tree.js" />
         <item url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/flare.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/Notes/notes.js" />
         <item url="file://$PROJECT_DIR$/dist/app/components/editor/ButtonsForEditing.js" />
         <item url="file://$PROJECT_DIR$/dist/app/components/editor/Editor.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/editor/GenerateData.js" />
         <item url="file://$PROJECT_DIR$/dist/app/components/editor/utilFunctions.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/editorWithKeyBnForSave/DraftJSFunctions.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/editorWithKeyBnForSave/Editor.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/navbar/Navbar.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/components/navbar/myNav.js" />
         <item url="file://$PROJECT_DIR$/dist/app/index.js" />
         <item url="file://$PROJECT_DIR$/dist/webpack.config.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/app/components/App.js" />
       <root url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/IndentedTree.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/Tree.js" />
       <root url="file://$PROJECT_DIR$/dist/app/components/D3IndentedTree/flare.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/Notes/notes.js" />
       <root url="file://$PROJECT_DIR$/dist/app/components/editor/ButtonsForEditing.js" />
       <root url="file://$PROJECT_DIR$/dist/app/components/editor/Editor.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/editor/GenerateData.js" />
       <root url="file://$PROJECT_DIR$/dist/app/components/editor/utilFunctions.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/editorWithKeyBnForSave/DraftJSFunctions.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/editorWithKeyBnForSave/Editor.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/navbar/Navbar.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/components/navbar/myNav.js" />
       <root url="file://$PROJECT_DIR$/dist/app/index.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
     </CLASSES>

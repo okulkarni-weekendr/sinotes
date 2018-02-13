@@ -8,6 +8,7 @@ import Battle2 from './battle2/Battle2';
 import MyNav from './navbar/NavBar';
 import Tree from "./D3IndentedTree/Tree";
 import Results from './battle2/results/PlayerResults';
+import Notes from './Notes/notes';
 
 class App extends React.Component {
     constructor(props){
@@ -31,6 +32,7 @@ class App extends React.Component {
                         <Route exact path='/battle2' component={Battle2}/>
                         <Route path='/battle2/results' component={Results}/>
                         <Route exact path='/tree' component={Tree}/>
+                        <Route exact path='/notes' component={Notes}/>
                         <Route render={() =>{
                         return <p>Not Found</p>
                         }} />

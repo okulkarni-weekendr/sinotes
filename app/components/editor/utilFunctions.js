@@ -55,9 +55,29 @@ const getBlockRendererFn = (getEditorState, onChange) => (block) => {
     }
 };
 
+const saveMapState = (editorState, depthMap) => {
+    let newDepthMap = depthMap;
+
+    const k = editorState.getCurrentContent()
+        .getBlockForKey(
+            editorState.getSelection().getStartKey()
+        );
+
+    const d = k.getDepth();
+    const t = k.getText();
+    if(depthMap.get(d)){
+        newDepthMap.set(d, depthMap.get(d).push(t));
+    }else{
+        newDepthMap.set(d, [t]);
+    }
+    return newDepthMap;
+};
+
+
 const utilFn = {
     getBlockRendererFn,
     resetBlockType,
+    saveMapState
 };
 
 export default utilFn;

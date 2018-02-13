@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import IndentedTree from './IndentedTree';
 import {Grid} from 'semantic-ui-react';
-import MyEditor from "../editor/Editor";
+import MyEditor from '../editor/Editor';
 
 class Tree extends Component {
 

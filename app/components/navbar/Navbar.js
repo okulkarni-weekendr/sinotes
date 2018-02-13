@@ -40,6 +40,9 @@ class NavBar extends Component {
                 <NavLink activeClassName='active' to='/tree'>
                     <Menu.Item name='Tree' active={activeItem === 'Tree'} onClick={this.handleItemClick} />
                 </NavLink>
+                <NavLink activeClassName='active' to='/notes'>
+                    <Menu.Item name='Notes' active={activeItem === 'Notes'} onClick={this.handleItemClick} />
+                </NavLink>
                 <Menu.Menu position='right'>
                     <Menu.Item name='logout' active={activeItem === 'Logout'} onClick={this.handleItemClick} />
                 </Menu.Menu>
