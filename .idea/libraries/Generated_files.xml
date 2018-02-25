@@ -36,6 +36,7 @@
       <root url="file://$PROJECT_DIR$/dist/app/index.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>
